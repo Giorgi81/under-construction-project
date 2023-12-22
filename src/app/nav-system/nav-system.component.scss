@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Mina&display=swap');
+
+mat-toolbar {
+    background-color: transparent;
+    display: flex;
+    justify-content: end;
+    padding-right: 8rem;
+    padding-top: 5rem;
+    font-family: 'Anton', sans-serif;
+font-family: 'Mina', sans-serif;
+
+span {
+    font-size: 18px;
+    color: rgb(34, 113, 239);
+    cursor: pointer;
+}
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
